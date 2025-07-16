@@ -1,0 +1,22 @@
+ModernTensor Wallet Information
+==============================
+
+Account Address: 0x87819820371c5ab2332da6ffdbaec7ce315da129bc1dfa47b7c726df77abe597
+
+Private Key: 0x0235dae67c000ce2432014f418578190a1da915a5fc31b857808f3365c8372df
+
+Public Key: 0x92cad71273af93e95774a5e09e760bd104029bb1241886f2e6b6a36fd93f0728
+
+Network: Testnet
+
+Explorer URL: https://explorer.aptoslabs.com/account/0x87819820371c5ab2332da6ffdbaec7ce315da129bc1dfa47b7c726df77abe597?network=testnet
+
+Faucet URL: https://aptos.dev/network/faucet
+
+Instructions:
+1. Go to https://aptos.dev/network/faucet
+2. Enter your address: 0x87819820371c5ab2332da6ffdbaec7ce315da129bc1dfa47b7c726df77abe597
+3. Click "Fund Account"
+4. Come back and run: python3 deploy.py
+
+Note: Keep your private key safe and never share it publicly! 
